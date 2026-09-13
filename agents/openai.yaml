@@ -1,0 +1,4 @@
+interface:
+  display_name: "商业播客深度评述"
+  short_description: "将商业播客逐字稿重构为证据驱动的深度评述与决策分析"
+  default_prompt: "使用 $business-podcast-commentary 分析这份商业播客，并以高可读性版式写入飞书文档。"

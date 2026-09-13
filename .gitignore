@@ -1,0 +1,25 @@
+# Local knowledge and user-provided materials
+knowledge-base/private/
+transcripts/
+outputs/
+*.local.md
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
